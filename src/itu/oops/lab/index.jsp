@@ -14,6 +14,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h2>Hello World!</h2>
+        <h2>Hello World to the Git!</h2>
     </body>
 </html>
